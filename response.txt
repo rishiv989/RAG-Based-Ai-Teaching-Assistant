@@ -1,0 +1,7 @@
+I'd be happy to help you with your question.
+
+It looks like you're trying to figure out where the "pretag" or "code tag" is taught in our Sigma web development course. 
+
+The content about the "pretag" and "code tag" in HTML was covered in video 13, where the instructor explains how written code should be placed within a "code tag" in the pre editor area.
+
+If you want to learn more about it, I'd recommend checking out that particular video (video 13). You can find it by going to our course videos section and searching for the title of that video. Specifically, look for the timestamp where it says "written in the code tag in the pre" - that's around 383 seconds into the video.
